@@ -10,7 +10,7 @@ Wayback Machine:
 
 ---
 
-- Font: [造字工房言宋体](https://www.makefont.com/font-1613.html) (Font Compressed By [font-spider-plus](https://github.com/allanguys/font-spider-plus))
+- Font: [造字工房言宋体](https://www.makefont.com/font-1613.html) (Font Converted By [otf2ttf](https://github.com/awesometoolbox/otf2ttf) and Compressed By [font-spider-plus](https://github.com/allanguys/font-spider-plus))
 
 ---
 
